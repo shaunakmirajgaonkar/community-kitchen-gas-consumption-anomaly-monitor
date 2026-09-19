@@ -1,0 +1,6 @@
+Community Kitchen Gas-Consumption Anomaly Monitor
+
+1. Create a virtual environment.
+2. Install requirements.
+3. Run pytest.
+4. Run `streamlit run app.py`.
